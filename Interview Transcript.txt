@@ -1,0 +1,58 @@
+Interview Transcript
+Yirun Zhu : Hello, thank you for taking our interview. Could you briefly introduce your work at Microsoft?
+
+David Liao : Okay, my name is David Liao, and I've worked at Microsoft for over 20 - 25 years. I'm currently a principal engineer.
+
+Yirun Zhu : Wow, that's a significant tenure. So, are you familiar with Microsoft Viva?
+
+David Liao : I have some experience with it. I've been using the Microsoft Viva system for a while since I've been working remotely daily.
+
+Yirun Zhu : interesting. As I understand, the Viva system monitors employees' activities during hybrid work, whether they're in the office or working from home. What's your take on this?
+
+David Liao : I think it collects data from engineers or users in the workplace. Specifically, it monitors PC usage, emails, meetings, and other online activities.
+
+Yirun Zhu : So, it gathers a lot of data from employees. Could this detailed tracking damage the trust between team leaders and their members?
+
+David Liao : The data collected by Viva is used to understand engineers' activities and their implications from both management and engineering perspectives. It helps analyze how you work in the office or remotely.
+
+Yirun Zhu : I see. Based on what you've shared, do you think Viva will alter performance management, perhaps replacing the oversight role of managers?
+
+David Liao : It will definitely enhance management. By aggregating personal data, it identifies work patterns and provides a comprehensive summary of daily tasks and more.
+
+Yirun Zhu : We've gathered some key insights from you. There's a notion that boosting productivity might conflict with improving employee well - being. What's your view?
+
+David Liao : A positive work environment for engineers certainly boosts productivity. While productivity is tough to measure, well - being encompasses both work - related and personal mental and physical health. Microsoft advocates working in a self - caring way, and the system offers productivity suggestions based on well - being.
+
+Yirun Zhu : Thank you for that. We've heard that Microsoft might discontinue Viva this year. Will it be updated, or replaced by a new system with a similar role in performance management?
+
+David Liao : I don't think Viva will be completely discontinued. Instead, it'll be improved to make data more readable and understandable for engineers and management. Improvements may include better privacy, data collection, and activity summaries.
+
+Yirun Zhu : We agree and look forward to Viva's evolution. Thanks for this insightful interview.
+
+David Liao : You're welcome.
+
+Interview Outline
+
+1. Introduction of the Interviewee
+   Ask the interviewee to briefly introduce their work at Microsoft.
+
+2. Familiarity with Microsoft Viva
+   Inquire if the interviewee is familiar with Microsoft Viva and their experience with it.
+
+3. Understanding of Viva System
+   Discuss how the Viva system monitors employees' activities during hybrid work.
+
+4. Impact on Trust
+   Explore whether the detailed tracking by the Viva system could damage the trust between team leaders and members.
+
+5. Influence on Performance Management
+   Investigate if Viva will change performance management and potentially replace the oversight role of managers.
+
+6. Relationship Between Productivity and Well - Being
+   Examine the interviewee's view on the relationship between boosting productivity and improving employee well - being.
+
+7. Future of Viva System
+   Discuss the rumors about the discontinuation of Viva and its potential updates or replacement.
+
+8. Conclusion
+   Thank the interviewee for their insights and conclude the interview.
